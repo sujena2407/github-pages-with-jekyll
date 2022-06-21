@@ -1,4 +1,12 @@
-title: Home
+---
+
+title: "YOUR-TITLE"
+
+date: YYYY-MM-DD
+
+---
+
+title: Welcome to my blog
 date: 2022-06-21
 author: Sujena
 email: your-email@domain.com
