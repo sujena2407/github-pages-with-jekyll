@@ -1,8 +1,8 @@
 ---
 
-title: "YOUR-TITLE"
+title: "Welcome to my blog"
 
-date: YYYY-MM-DD
+date: 2022-06-21
 
 ---
 
