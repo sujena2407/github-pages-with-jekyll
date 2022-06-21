@@ -1,4 +1,5 @@
 title: Home
+date: 2022-06-21
 author: Sujena
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
